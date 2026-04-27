@@ -151,6 +151,8 @@ MDA-DUNet/
 📜 Citation
 
 If you find our work helpful for your research, please cite our paper (Chinese reference format as in the original paper):
+
+```bibtex
 @article{fang2023multiresolution,
   title={A Multiresolution Details Enhanced Attentive Dual-UNet for Hyperspectral and Multispectral Image Fusion},
   author={Fang, Jian and Yang, Jingxiang and Khader, Abdolraheem and Xiao, Liang},
@@ -161,7 +163,7 @@ If you find our work helpful for your research, please cite our paper (Chinese r
   publisher={IEEE},
   doi={10.1109/JSTARS.2022.3228941}
 }
-
+```
 
 📄 License
 
